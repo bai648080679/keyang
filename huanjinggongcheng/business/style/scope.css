@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+.logo{ margin:0 auto; width:1920px}
+.position{width:1050px; margin:0 auto; height:60px; line-height:60px; font-size:12px; color:#666666; font-family:"微软雅黑";}
+.position a{font-size:12px; color:#666666; font-family:"微软雅黑";}
+.position a:hover{color:red; text-decoration:underline}
+.main{width:100%; background:url(../images/scope_03.jpg) repeat-x}
+.submain{width:1050px; margin:0 auto; padding-top:60px; padding-bottom:110px}
+.submain .left{width:460px; float:left; margin-right:60px; padding-left:20px}
+.submain .left p.one{line-height:24px; font-size:12px; color:#666666; text-indent:24px}
+.submain .left p.two{line-height:24px; font-size:12px; color:#666666;}
+.submain .left p.two span{color:#2879b9; font-weight:bold}
+.submain .right{width:445px; float:left; }
+.submain .right p{line-height:20px; font-size:12px; color:#666666;}
+.submain .right p span{color:#2879b9; font-weight:bold}
+.submain .right p.one{line-height:20px; font-size:12px; color:#666666; text-indent:24px}

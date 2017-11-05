@@ -1,0 +1,27 @@
+@charset "utf-8";
+/* CSS Document */ 
+.main{ width:100%; margin-top:26px; border-bottom:1px solid #dddddd; margin-bottom:42px;}
+.main .mainer{ width:1130px; margin:0 auto;}
+.mainer .left,.mainer .right{ float:left;}
+.mainer .left{ width:209px; padding-right:34px;}
+.mainer .left .top{width:174px; background:url(../images/service_04_03.jpg) no-repeat left top; padding-top:142px; height:167px; border:1px solid #c3c3c3; padding-left:16px; padding-right:19px; margin-bottom:50px;}
+.mainer .left .top li{ background:url(../images/service_17.jpg) no-repeat 8px 13px; text-indent:30px; font-size:12px; height:36px; line-height:36px; border-bottom:1px solid #c0c0c0;}
+
+.mainer .left .top li:hover{ background:url(../images/service_14.jpg) no-repeat 8px 13px;}
+.mainer .left .down{ width:194px; height:96px; background:#e1dedb; padding-bottom:11px; padding-left:15px; padding-top:19px;}
+.mainer .left .down p.p1{ color:#838383; line-height:20px; margin-bottom:13px;}
+.mainer .left .down p.p2{ height:13px; line-height:13px; margin-bottom:4px;}
+.mainer .left .down a{ display:inline-block; color:#838383;line-height:13px; font-size:12px;}
+.mainer .left .down a:focus{ color:#0074ba;}
+.mainer .left .down p.p3 input{ width:156px; height:25px; border:0; line-height:25px; font-size:12px; color:#000;}
+.mainer .left .down p.p3{ position:relative;}
+.mainer .left .down p.p3 img{ display:block; position:absolute; left:156px; top:0;}
+.mainer .right{ width:887px;}
+.mainer .right .toper{ width:877px; height:34px; background:url(../images/service_05.jpg) repeat-x;  padding-left:10px; margin-bottom:20px;}
+.mainer .right .toper .left{ width:300px; float:left; height:34px; line-height:34px; font-size:16px; color:#fefefe; font-weight:bold;}
+.mainer .right .toper .right{ width:169px; line-height:34px; float:right; padding-left:210px; padding-right:21px; background:url(../images/service_08.jpg) no-repeat 196px 10px; height:34px;} 
+.mainer .right .toper .right a{ font-size:12px; color:#ffffff;}
+.mainer .right .downer h2{ line-height:66px; font-size:18px; color:#000; font-family:"黑体"; text-align:center;}
+.mainer .right .downer p.p1{ line-height:22px; font-size:14px; color:#333333; padding-left:58px;}
+.mainer .right .downer p.p2{ line-height:22px; font-size:14px; color:#333333; text-indent:32px;}
+.mainer .right .downer p.p3{ line-height:66px; font-size:14px; color:#333333; float:right; margin-bottom:22px;}

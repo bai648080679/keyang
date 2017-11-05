@@ -1,0 +1,29 @@
+@charset "utf-8";
+/* CSS Document */
+.bg{width:100%; padding-top:100px;}
+.bg img{width:100%;}
+.nav_{width:100%; background:#fff; border-bottom:1px solid #ddd;}
+.nav_ .nav{width:1010px; margin:0 auto;}
+.nav li{float:left; margin-right:48px;}
+.nav a{height:54px; line-height:54px; font-size:12px; color:#7d7d7d;}
+.nav1_{width:100%; background:#eee;}
+.nav1{width:1010px; margin:0 auto;}
+.nav1 li{float:left; margin-right:24px;}
+.nav1 a{  height:30px; line-height:30px; font-size:12px; color:#7d7d7d;}
+.nav1 a:hover{color:#111;}
+.content_{width:100%; background:#f7f7f7;}
+.content_ .content{width:1010px; margin:0 auto;}
+.content_ .content .top{padding-bottom:19px;}
+.content_ .content .top li{float:left; height:40px; line-height:40px;font-size:12px; margin-right:7px;}
+.content_ .content .top a{ font-size:12px; color:#2879a4;}
+.content_ .content .top a:hover{ text-decoration:underline;}
+.content_ .content .mid h1{font-size:18px; color:#2879a4; height:35px; line-height:35px;}
+.content_ .content .mid li{float:left; margin-right:50px; margin-bottom:25px;}
+.content_ .content .mid a{width:198px;}
+.content_ .content .down{ padding-top:15px; padding-bottom:16px;}
+.content_ .content .down .left,.content_ .content .down .right{float:left;}
+.content_ .content .down .left{ width:80px; height:19px; line-height:19px; font-size:12px; color:#000;}
+.content_ .content .down .right{width:160px; float:right; padding-right:13px;}
+.content_ .content .down .right li{float:left; margin-right:5px;}
+.content_ .content .down .right a{ display:block; width:18px; height:21px; line-height:21px; border:1px solid #d7d7d7; font-size:12px; text-align:center; color:#222;}
+.content_ .content .down .right a:hover{ border:1px solid #333;}

@@ -1,0 +1,10 @@
+@charset "utf-8";
+/* CSS Document */
+*{margin:0; padding:0;}
+.clearfix:after{ height:0; display:block; content:'.'; visibility:hidden; clear:both;}
+.clear{height:0; line-height:0; font-size:0; display:block; clear:both;}
+ul,li,h1,h2,h3,h4,h5,h6,p,dl,dt,dd,form,label,fieldset,select,option{display:block;}
+ul{list-style:none;}
+img{border:0;}
+a{text-decoration:none;}
+body{font-family:"微软雅黑";}

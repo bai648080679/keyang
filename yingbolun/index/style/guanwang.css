@@ -1,0 +1,51 @@
+@charset "utf-8";
+/* CSS Document */
+/*banner*/
+.banner{width:100%;}
+/*container*/
+/*top*/
+.container{width:100%; padding-bottom:26px; border-bottom:1px solid #dddddd; margin-bottom:1px; margin-top:38px;}
+.container .top{width:1146px; margin:0 auto 45px auto; margin-top:32px;}
+.container .top ul li{width:558px; margin-bottom:38px; margin-right:30px; float:left; position:relative;}
+.container .top ul li>img{display:block; position:absolute; left:0; top:6px;}
+.container .top ul li:nth-child(2),.container .top ul li:nth-child(4){margin-right:0;}
+.container .top ul li div{width:271px; height:129px; border:1px solid #dddddd; border-radius:5px; background:url(../images/ying_09.jpg) repeat-y; padding-top:15px; padding-left:45px; margin-left:240px;}
+.container .top ul li div h2{width:271px; height:53px; line-height:53px; position:relative;}
+.container .top ul li div h2 img{display:block; position:absolute; left:232px; top:19px;}
+.container .top ul li div h2 a{font-size:18px; color:#000000;}
+.container .top ul li div p{width:271px; line-height:17px; font-size:12px; color:#000000;}
+/*middle*/
+.container .middle{width:1166px; padding-left:20px; margin:0 auto 42px auto; padding-bottom:37px; border-bottom:1px solid #dddddd;}
+.container .middle .news,.container .middle .use,.container .middle .company{float:left; margin-right:37px; background:url(../images/ying_27.jpg) no-repeat right top;}
+/*news*/
+.container .middle .news{width:357px;}
+.container .middle .news>img{display:block; background:#eeeeee; padding:5px; border-radius:5px; margin-left:10px; margin-bottom:4px;}
+.container .middle .news ul{padding-left:10px;}
+.container .middle .news ul li{width:301px; padding-left:6px; padding-right:5px; height:23px; line-height:23px; padding-bottom:5px; border-bottom:1px dashed #dbdbdb;}
+.container .middle .news ul li a{font-size:12px; color:#666666; }
+.container .middle .news ul li a:hover{color:#000;}
+.container .middle .news ul li span{display:block; width:80px; font-size:10px; color:#c5afa7; float:right;}
+/*use*/
+.container .middle .use{width:509px;}
+.container .middle .use ul li{width:220px; margin-right:22px; margin-bottom:24px; float:left;}
+.container .middle .use ul li img{display:block; margin-bottom:10px;}
+.container .middle .use ul li p{line-height:21px; line-height:21px; font-size:12px; color:#4a4a4a;}
+/*company*/
+.container .middle .company{margin-right:0; background:0; width:226px;}
+.container .middle .company img{display:block; margin-bottom:20px;}
+.container .middle .company p{margin-bottom:13px; height:20px; line-height:20px; width:209px;}
+.container .middle .company p select{height:18px; line-height:18px; width:207px; border:1px solid #aaaaaa; border-radius:3px;} 
+.container .middle .company p select option{padding-left:4px; font-size:12px; color:#000000;}
+.container .middle .news h2,.container .middle .use h2,.container .middle .company h2{font-size:16px; height:20px; line-height:20px; color:#005fa0; border-left:3px solid #005fa0; margin-bottom:20px; padding-left:16px;}
+/*down*/
+.container .down{width:1124px; padding-left:24px; margin:0 auto;}
+.container .down ul,.message{float:left; background:url(../images/ying_50.jpg) no-repeat right top; width:151px; margin-right:60px;}
+.container .down ul li:first-child{height:30px; line-height:30px; font-size:16px; color:#000000; font-weight:bold;}
+.container .down ul li{height:26px; line-height:26px;}
+.container .down ul li a{font-size:12px; color:#4f0000;}
+.container .down ul li a:hover{color:#000;}
+.container .down .message{width:280px; background:0; margin-right:0;}
+.container .down .message span{display:block; height:33px; line-height:33px; font-size:28px; color:#000000; margin-bottom:9px;}
+.container .down .message p:nth-child(2){line-height:25px; font-size:12px; color:#000; margin-bottom:22px; }
+.container .down .message p:last-child{width:169px; height:38px; line-height:38px; background:#ff4a00; border-radius:5px; text-align:center;}
+.container .down .message p:last-child a{font-size:16px; color:#fff3ff;}

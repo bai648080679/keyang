@@ -1,0 +1,30 @@
+@charset "utf-8";
+/* CSS Document */
+.ban{width:100%; padding-top:4px;}
+.banSm{width:1050px; margin:0px auto; height:56px; line-height:56px; font-size:14px; color:#666666; font-family:'微软雅黑';}
+.banSm a{display:inline-block; fong-size:14px; color:#666; font-family:'微软雅黑'; text-align:center; margin-right:4px;}
+.banSm a:hover{color:red;}
+.cen{width:100%; padding-top:50px; background:url(../images/technology_05.jpg) repeat-x left top; padding-bottom:83px;}
+.cen .fir{width:1050px; margin:0px auto; padding-bottom:3px; border-bottom:1px dashed #606060; margin-bottom:42px;}
+.cen .fir .left{width:400px; float:left; margin-right:50px;}
+.cen .fir .left h2{font-size:16px; color:#555555; font-family:'微软雅黑'; height:16px; line-height:16px; margin-bottom:14px;}
+.cen .fir .left p{line-height:24px; font-size:14px; color:#666666; font-family:'微软雅黑'; text-indent:35px;}
+.cen .fir .right{float:left;}
+.cen .sec{width:1050px; margin:0px auto; padding-bottom:19px; border-bottom:1px dashed #606060; margin-bottom:42px;}
+.cen .sec h2{font-size:16px; color:#555555; font-family:'微软雅黑'; height:16px; line-height:16px; margin-bottom:14px;}
+.cen .sec p{font-size:14px; line-height:27px; color:#666; font-family:'微软雅黑'; text-indent:28px;}
+.cen .sec img{ display:block; margin-top:26px; margin-left:20px;}
+.cen .thr{width:1050px; margin:0px auto; padding-bottom:10px; border-bottom:1px dashed #606060; margin-bottom:42px;}
+.cen .thr .left{width:450px; float:left; margin-right:14px;}
+.cen .thr .left h2{font-size:16px; color:#555555; font-family:'微软雅黑'; height:16px; line-height:16px; margin-bottom:15px;}
+.cen .thr .left p{font-size:14px; line-height:24px; color:#666; font-family:'微软雅黑'; text-indent:28px;}
+.cen .thr .right{float:left;}
+.cen .for{width:1050px; margin:0px auto;}
+.cen .for h2{font-size:16px; color:#555555; font-family:'微软雅黑'; height:16px; line-height:16px; margin-bottom:15px;}
+.cen .for p{font-size:14px; line-height:28px; color:#666; font-family:'微软雅黑'; text-indent:28px;}
+.cen .fiv{width:1050px; margin:0px auto; border:1px solid #8c8c8c;}
+.cen .fiv .left{width:442px; float:left; margin-right:32px; border-right:1px solid #e0e0e0;padding-left:28px; padding-bottom:25px;}
+.cen .fiv .left h2{font-size:16px; color:#555555; font-family:'微软雅黑'; height:16px; line-height:16px; margin-bottom:10px; margin-top:50px;}
+.cen .fiv .left p{font-size:14px; line-height:23px; color:#666; font-family:'微软雅黑';}
+.cen .fiv .right{ display:block; float:left; border-left:1px solid #e0e0e0; padding-left:50px;}
+

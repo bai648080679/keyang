@@ -1,0 +1,19 @@
+@charset "utf-8";
+/* CSS Document */
+.hat{ width:100%; margin:0 auto; height:300px;}
+.nave{ width:100%;}
+.naver{ width:1050px; margin:0 auto;}
+.naver p{ height:60px; line-height:60px; font-size:14px; color:#666666;}
+.naver p a{ font-size:14px; color:#666666;}
+.naver p a:hover{ color:red;}
+.main{ width:100%; background:url(../../%E9%B9%B0%E6%9F%8F%E4%BC%A6/images/job1_04.jpg) repeat-x left top;}
+.mainer{ width:1032px; margin:0 auto; padding-top:35px; padding-left:18px; padding-bottom:30px;}
+.mainer p{ line-height:24px; color:#999999; font-size:14px; }
+.mainer ul{ width:962px; border:1px solid #cccccc;}
+.mainer li{ width:240px; float:left; height:45px; line-height:45px; font-size:12px;  text-align:center;}
+.mainer .ul1 { background:#f7f7f7;}
+.mainer .ul1 li{ color:#2879a4;}
+.mainer .ul2 li{ color:#7666666;}
+.mainer .ul2 li a{ color:#2879ac;}
+.mainer .ul2:hover{ background:#f7f7f7;}
+

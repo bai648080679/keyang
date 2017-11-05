@@ -1,0 +1,20 @@
+@charset "utf-8";
+/* CSS Document */
+.logo{ margin:0 auto; width:1920px}
+.position{width:1050px; margin:0 auto; height:60px; line-height:60px; font-size:12px; color:#666666; font-family:"微软雅黑";}
+.position a{font-size:12px; color:#666666; font-family:"微软雅黑";}
+.position a:hover{color:red; text-decoration:underline}
+.main{width:100%; background:url(../images/scope_03.jpg) repeat-x}
+.submain{width:1050px; margin:0 auto; padding-top:10px; padding-bottom:110px}
+.submain h2{height:69px; line-height:69px; padding-left:50px; font-size:14px; color:#ff0000; font-weight:bold}
+.submain .bottom{width:1050px}
+.submain .bottom .left{width:475px; float:left; margin-right:15px; padding-top:10px; padding-left:20px}
+.submain .bottom .left h3{ height:47px; line-height:47px; font-size:12px; color:#337fe5}
+.submain .bottom .left p.one{line-height:22px; font-size:12px; color:#666666; text-indent:24px}
+.submain .bottom .left p.two{line-height:22px; font-size:12px; color:#666666; padding-left:24px}
+.submain .bottom .left img{display:block; margin-bottom:6px}
+.submain .bottom .left p.three{line-height:25px; font-size:12px; color:#666666; text-indent:24px}
+.submain .bottom .right{width:470px; float:left}
+.submain .bottom .right h3{height:12px; line-height:12px; font-size:12px; color:#337fe5; margin-bottom:15px}
+.submain .bottom .right p{line-height:24px; font-size:12px; color:#666666; text-indent:24px; margin-bottom:3px}
+.submain .bottom .right img{display:block; margin-bottom:6px; padding-left:37px; margin-bottom:60px}

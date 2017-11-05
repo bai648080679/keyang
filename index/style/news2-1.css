@@ -1,0 +1,36 @@
+@charset "utf-8";
+/* CSS Document */
+.nav,.main{width:100%;}
+.nav .content,.main .content{width:1010px; margin:0 auto;}
+.banner{width:100%;}
+.nav{border-bottom:1px solid #dddddd;}
+.main{background:#f7f7f7; padding-bottom:20px;}
+.nav .content a{display:inline-block; height:63px; line-height:63px; width:55px; margin-right:57px; font-size:12px; color:#7e7d80;}
+.nav .content a:hover{color:#000001;}
+.main .content p.title{height:50px; line-height:50px; font-size:15px; color:#000001; margin-bottom:19px;}
+.main .content p.title a{display:inline-block; width:34px; font-size:12px; color:#2778a5;}
+.main .content p.title a.two{width:68px; text-align:center;}
+.main .content p.title span{font-size:67px; font-size:12px; color:#000001; text-align:center; display:inline-block;}
+.main .content p.title a:hover{text-decoration:underline;}
+.main .content h2{height:47px; line-height:47px; font-size:22px; color:#2676a5; border-bottom:1px solid #dddddd; margin-bottom:14px;}
+.main .content ul{margin-bottom:20px;}
+.main .content ul li{margin-bottom:28px; border-bottom:1px solid #dddddd; font-family:"微软雅黑";}
+.main .content ul li img{display:block; float:left; margin-right:30px;}
+.main .content ul li h3{height:25px; line-height:25px; margin-bottom:12px;}
+.main .content ul li h3 a{font-size:16px; color:#130d0b;}
+.main .content ul li a:hover{color:#3e9ed1;}
+.main .content ul li h3 span{font-size:12px; color:#969896; text-align:right; display:inline-block; float:right; font-family:"宋体";}
+.main .content ul li p{font-size:14px; line-height:20px; color:#666666;}
+.main .content ul li p a{font-size:12px; color:#2879a2; display:inline-block; padding-left:14px;}
+.main .content ul li:first-child p{margin-bottom:21px;}
+.main .content ul li:nth-child(2) p{margin-bottom:14px;}
+.main .content ul li:nth-child(3) p a{display:block; margin-top:9px; height:48px; line-height:48px; padding-left:115px;}
+.main .content ul li:nth-child(4) p{margin-bottom:21px;}
+.main .content ul li:nth-child(5) p{margin-bottom:42px;}
+.main .content p.turn_pages{height:24px; line-height:24px;}
+.main .content p.turn_pages span{ width:75px; font-size:12px; color:#000000; display:block; float:left; margin-right:615px;}
+.main .content p.turn_pages a{display:inline-block; font-size:10px; color:#21221b; width:21px; height:22px; line-height:22px; border:1px solid #d7d7d7; margin-right:5px; text-align:center;}
+.main .content p.turn_pages a.one{border-color:#1f2831;}
+.main .content p.turn_pages a.next{width:57px; font-size:12px;}
+.main .content p.turn_pages a.last{width:49px; font-size:12px; margin-right:0;}
+.main .content p.turn_pages a:hover{border-color:#c9cdca; background:#eeeeee;}

@@ -1,0 +1,21 @@
+@charset "utf-8";
+/* CSS Document */
+.logo{ height:260px; padding-top:100px; width:100%;}
+.nav{width:1010px; margin:0 auto; border-bottom:1px solid #ddd}
+.nav ul li{float:left; width:111px; height:63px; line-height:63px; text-align:left; font-size:12px; color:#111111}
+.nav ul li a{font-size:12px; color:#7d7d7d;}
+.nav ul li a:hover{color:#111}
+.main{width:100%; background:#f7f7f7}
+.submain{width:1010px; margin:0 auto; padding-bottom:40px}
+.submain p.height_41{height:41px; line-height:41px; font-size:8px; color:#000; margin-bottom:14px}
+.submain p.height_41 a{display:inline-block; padding-right:10px; padding-left:10px; font-size:12px; color:#2879a4}
+.submain p.height_41 a:hover{text-decoration:underline}
+.submain p.height_41 a span{color:#000}
+.submain h3{ height:33px; line-height:33px; font-size:14px; color:#2879a4}
+.submain ul{width:707px; margin:0 auto}
+.submain li{ width:305px; float:left}
+.submain li.width_right{width:377px; padding-left:23px; padding-top:3px; background:url(../images/about-us--develop_07.jpg) no-repeat center left}
+.submain li.width_right h4{width:50px; height:50px; border-radius:100px; border:1px solid #d2d2d2; line-height:50px; text-align:center; box-shadow:0px 0px 5px #d2d2d2; font-size:12px; color:#2878a3}
+.submain li.width_400{width:73px; padding-left:327px; padding-top:3px; background:url(../images/about-us--develop_03.jpg) no-repeat center right;}
+.submain li.width_400 h4{width:50px; height:50px; border-radius:100px; border:1px solid #d2d2d2; line-height:50px; text-align:center; box-shadow:0px 0px 5px #d2d2d2; font-size:12px; color:#2878a3}
+.submain li p{ padding:24px 0 30px 25px; font-size:12px; color:#666; line-height:18px; background:#eeeeee}

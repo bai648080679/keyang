@@ -1,0 +1,51 @@
+/* CSS Document */
+/*banner*/
+.banner{height:471px; background:url(../images/index_03.jpg) repeat-x left bottom; margin-bottom:4px;}
+
+.banner,.container,.footer{width:100%;}
+/*.container*/
+.container .announcement{width:1000px; height:33px; position:relative; margin:0 auto 44px auto;}
+.container .announcement p.title{width:73px; height:32px; line-height:32px; margin-top:1px; background:url(../images/index_10.jpg) no-repeat; font-size:14px; color:#fefefe; padding-left:10px; z-index:1000; position:absolute; text-indent:0;}
+.container .announcement p.main{width:883px; height:33px; line-height:33px; background:url(../images/index_07.jpg) repeat-x; border-right:1px solid #efedec; position:absolute; left:31px; top:0; padding-left:85px; text-indent:0;}
+.container .announcement p.main a{display:inline-block; width:280px; padding-left:15px; background:url(../images/index_13.jpg) no-repeat left center; font-size:12px; color:#908590; float:left;}
+.container .announcement p.main a:hover{color:red;}
+.container .announcement p.main a.last{width:278px;}
+.container .content{margin:0 auto; width:1000px; padding-bottom:42px;}
+.container .content .newscenter,.container .content .example,.container .content .technology{width:320px; float:left; margin-right:20px;}
+.container .content .technology{margin-right:0;}
+.container .content h2{height:38px; line-height:38px;}
+.container .content h2>a{font-size:16px; color:#545556;}
+.container .content h2 a:hover{color:red;}
+.container .content h2 span.more{display:block; width:54px; float:right;}
+.container .content h2 span.more>a{font-size:8px; color:#818a94;}
+.container .content h2 span.more>a:hover{color:red;}
+.container .content img{display:block;}
+.container .content .newscenter img{margin-bottom:2px;}
+.container .content .newscenter p{line-height:15px; margin-bottom:1px; text-indent:0;}
+.container .content .newscenter p a{font-size:12px; color:#fe0006; font-weight:bold;}
+.container .content .newscenter p a:hover{color:#000;}
+.container .content .newscenter li{padding-left:10px; background:url(../images/index_18.jpg) no-repeat left center; height:24px; line-height:24px;}
+.container .content .newscenter li a{font-size:12px; color:#666566;}
+.container .content .newscenter li a:hover{color:red}
+.container .content .example img{margin-bottom:2px;}
+.container .content .example p{line-height:24px; font-size:12px; color:#333233; text-indent:0;}
+.container .content .technology img{margin-bottom:8px;}
+.container .content .technology h3{height:28px; line-height:28px; font-size:14px; color:#fe0006;}
+.container .content .technology p{line-height:24px; font-size:12px; color:#333233; text-indent:0;}
+/*footer*/
+.footer{height:131px; background:#d5d6d6; padding-top:20px;}
+.footer .content{height:90px; background:#5f5f5f; padding-left:128px; padding-top:20px; padding-bottom:18px; width:100%; margin-bottom:1px;}
+.footer .content p{width:1000px; line-height:24px; font-size:12px; color:#fefefe; text-indent:0;}
+.footer .content p span{color:#eae9dd;}
+/*help*/
+body{position:relative;}
+.help p{line-height:20px; font-size:16px; color:#CFF; margin-bottom:20px; text-indent:32px;}
+.help{width:66px; height:204px; position:fixed; right:25px; top:411px;}
+.help .top,.help .middle,.help .down{width:66px; height:66px; margin-bottom:3px; background:#f02411;}
+.help .top{background:#a5a6a4;}
+.help .top:hover{cursor:pointer;}
+.help .top img{display:block; padding:25px 16px 20px 16px;}
+.help .middle{background:url(../images/1_07.jpg) no-repeat 17px 18px,#f02411;}
+.help .middle:hover{background:url(../images/3_03.jpg) no-repeat 17px 18px,#a5a6a4; cursor:pointer;}
+.help .down{margin-bottom:0; background:url(../images/1_10.jpg) no-repeat 17px 16px,#f02411;}
+.help .down:hover{background:url(../images/4_03.jpg) no-repeat 17px 16px,#a5a6a4; cursor:pointer;}

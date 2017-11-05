@@ -1,0 +1,13 @@
+@charset "utf-8";
+/* CSS Document */
+.ban{width:100%; padding-top:4px;}
+.banSm{width:1050px; margin:0px auto; height:56px; line-height:56px; font-size:14px; color:#666666; font-family:'微软雅黑';}
+.banSm a{display:inline-block; fong-size:14px; color:#666; font-family:'微软雅黑'; text-align:center; margin-right:4px;}
+.banSm a:hover{color:red;}
+.cen{width:100%; padding-top:50px; background:url(../images/technology_05.jpg) repeat-x left top; padding-bottom:83px;}
+.cen .top{margin:0px auto; display:block; margin-bottom:95px;}
+.cen .fir{width:670px; margin:0px auto;}
+.cen .fir img{ display:block; float:left; margin-right:43px;}
+.cen .fir .right{float:left; width:370px;}
+.cen .fir .right h2{font-size:16px; color:#F00; font-family:'微软雅黑'; height:21px; line-height:21px;}
+.cen .fir .right p{font-size:14px; color:#666666; font-family:'微软雅黑'; line-height:18px; margin-bottom:7px;}

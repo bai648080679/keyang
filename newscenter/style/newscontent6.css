@@ -1,0 +1,17 @@
+@charset "utf-8";
+/* CSS Document */
+.nav{width:100%; border-bottom:1px solid #dddddd; padding-top:100px; background:url(../images/newscenter-29.jpg) repeat-x left 100px;}
+.nav ul{width:1010px; margin:0px auto;}
+.nav ul li{width:61px; float:left; margin-right:51px; height:63px; line-height:63px;font-size:14px; }
+.nav ul li a{font-size:14px; color:#7d7d7d; font-family:'微软雅黑';}
+.nav ul li a:hover{color:#111111;}
+.ban{width:100%; background:#f7f7f7;}
+.ban .banSm{width:1010px; margin:0px auto; font-size:14px; color:#000;}
+.ban .banSm a{height:50px; line-height:50px; font-size:14px; color:#2879a4; display:inline-block; padding-bottom:20px;}
+.ban .banSm a:hover{ text-decoration:underline;}
+.cen{width:100%; background:#f7f7f7; padding-bottom:37px;}
+.cen h2{width:1010px; margin:0px auto; height:70px; line-height:30px; font-size:16px; color:#2879ab; font-family:'微软雅黑'; border-bottom:1px solid #dddddd; margin-bottom:9px;}
+.cen h2 span{ display:block; height:30px; line-height:30px; font-size:12px; color:#b0a499; font-family:'微软雅黑';}
+.cen p{width:1010px; line-height:18px; font-size:14px; color:#666666; font-family:'微软雅黑'; margin:0px auto 9px auto;}
+.cen .bottom{ width:1010px; margin:0px auto;}
+.cen .bottom img{padding-left:5px;}

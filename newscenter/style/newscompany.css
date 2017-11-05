@@ -1,0 +1,30 @@
+@charset "utf-8";
+/* CSS Document */
+.img{width:100%; padding-top:100px;}
+.nav{width:100%; border-bottom:1px solid #dddddd;}
+.nav ul{width:1010px; margin:0px auto;}
+.nav ul li{width:61px; float:left; margin-right:51px; height:63px; line-height:63px;font-size:14px; }
+.nav ul li a{font-size:14px; color:#7d7d7d; font-family:'微软雅黑';}
+.nav ul li a:hover{color:#111111;}
+.ban{width:100%; background:#f7f7f7;}
+.ban .banSm{width:1010px; margin:0px auto; font-size:14px; color:#000;}
+.ban .banSm a{height:50px; line-height:50px; font-size:14px; color:#2879a4; display:inline-block; padding-bottom:20px;}
+.ban .banSm a:hover{ text-decoration:underline;}
+.cen{width:100%; background:#f7f7f7;}
+.cen .cenSm{width:1010px; margin:0px auto;}
+.cen .cenSm h2{height:46px; line-height:46px; font-size:24px; color:#2879a4; border-bottom:1px solid #dddddd;}
+.cen .cenSm li{width:895px; border-bottom:1px solid #dddddd; padding:14px 0px 30px 0px; padding-left:115px; margin-bottom:16px; background:url(../images/newscenter-19.JPG) no-repeat left 14px;}
+.cen .cenSm li h3{width:895px;height:30px;}
+.cen .cenSm li h3 a{display:block; float:left; font-size:16px; color:#111111; font-family:'黑体'; height:30px; line-height:30px; font-weight:normal;}
+.cen .cenSm li h3 a:hover{color:#2879a4;}
+.cen .cenSm li h3 span{display:block; float:right; font-size:12px; color:#9999b0; height:30px; line-height:30px;}
+.cen .cenSm li p{ line-height:21px; font-size:14px; color:#666666; font-family:'微软雅黑';}
+.cen .cenSm li p a{font-size:12px; color:#2879a4; font-family:'微软雅黑';}
+.cen .cenSm li p a:hover{color:#4699c5;}
+.title{width:100%; background:#f7f7f7;}
+.title .titleSm{width:1010px; margin:0px auto;}
+.title .titleSm p{height:64px; line-height:64px; font-size:12px; color:#000; font-family:'微软雅黑'; float:left; width:95px;}
+.title .titleSm ul{height:64px; width:210px; float:right;}
+.title .titleSm ul li{float:left; margin-right:5px;text-align:center; height:23px; line-height:22px; margin-top:20px;}
+.title .titleSm ul li a{ display:block; width:21px; font-size:12px; color:#222222; font-family:'微软雅黑'; border:1px solid #d7d7d7; height:22px; line-height:22px;}
+.title .titleSm ul li:hover{background:#dfdddd;}

@@ -1,0 +1,19 @@
+@charset "utf-8";
+/* CSS Document */
+.bg{width:100%; padding-top:100px;}
+.bg img{width:100%;}
+.nav_{width:100%; background:#fff;}
+.nav{width:1010px; margin:0 auto;}
+.nav li{float:left; margin-right:49px; height:54px; line-height:54px;}
+.nav a{font-size:12px; color:#7d7d7d;}
+.nav a:hover{color:#111;}
+.nav1_{width:100%; background:#f7f7f7;}
+.nav1{width:1010px; margin:0 auto;}
+.nav1 li{float:left; font-size:12px; color:#000; margin-right:2px; height:41px; line-height:41px;}
+.nav1 a{ font-size:12px; color:#2879a4;}
+.nav1 a:hover{ text-decoration:underline;}
+.content_{width:100%; background-color: #f7f7f7;
+padding-bottom:40px; }
+.content_ .content{width:1010px; margin:0 auto;}
+.content_ .content .foot{ width:180px; height:17px; line-height:17px; font-size:12px; color:#3366ff; background:#fff;  margin-top:18px;}
+

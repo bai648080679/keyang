@@ -1,0 +1,6 @@
+@charset "utf-8";
+/* CSS Document */
+.header{width:1128px; height:118px;}
+.header img{display:block; padding-top:28px; padding-bottom:28px; margin-right:25px; float:left;}
+.header p{width:95px; float:right; padding-right:23px;}
+
